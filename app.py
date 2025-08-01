@@ -1,7 +1,6 @@
 import uvicorn
 from fastapi import FastAPI
 import fastai
-import fastbook
 from fastai.imports import *
 from fastai.tabular.all import *
 from BioValues import Biovalue
